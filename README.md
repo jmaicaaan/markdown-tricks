@@ -94,9 +94,9 @@ This collection of hacks contains the solutions of the (un)common problems I've 
 ## Line breaks
 If you need a line break, just put two spaces at its end.
 
-This is a simple poem
-Intended to process
-The code that can be stolen
+This is a simple poem  
+Intended to process  
+The code that can be stolen  
 In order to impress
 
 ## Mouseover text
