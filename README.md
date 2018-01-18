@@ -46,7 +46,7 @@ This collection of hacks contains the solutions of the (un)common problems I've 
 [//]: # (You can't see this text, unless you look at the document source)
 ```
 
-## Dropdows
+## Dropdowns
 
 <details>
 
@@ -92,6 +92,7 @@ This collection of hacks contains the solutions of the (un)common problems I've 
 ```
 
 ## Line breaks
+
 If you need a line break, just put two spaces at its end.
 
 This is a simple poem  
@@ -100,7 +101,9 @@ The code that can be stolen
 In order to impress
 
 ## Mouseover text
+
 <span style="text-decoration:underline" title="This is how you can do it">Mouseover</span>
+
 ```HTML
 <span style="text-decoration:underline" title="This is how you can do it">Mouseover</span>
 ```
