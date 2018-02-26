@@ -20,6 +20,21 @@ This collection of hacks contains the solutions of the (un)common problems I've 
 
 > **Note:** These tricks don't show up when you "Preview changes", you have to actually commit and view in the GitHub web UI or use a local renderer to see it.
 
+<details>
+<summary>💃 ☕️ Buy me a coffee! :)</summary>
+
+[![stellartip](https://stellartip.me/static/images/stellartip-button.png)](https://stellartip.me/github/elsieholmes)
+
+BCH 1ACf3hqkL2mqgU8cHEDyDSJ3aeyrbDaDJj
+
+BTC 1D9jbrFcnszjALRFzMyMMHRgKrW3C7Rd16
+
+ETH 0x1892089efaadf2b249ad2683fb1cd90f53a272fc
+
+PIVX DL4u7QbFmu2X4ARqmBGXKh6fWS8cRKddCj
+
+</details>
+
 ## Alignment
 
 <div align="center">This is center aligned!</div>
